@@ -1,1 +1,1 @@
-export * from "./mods/requestPermissionOrExit.ts"
+export * from "./getPermissionOrExit.js"
