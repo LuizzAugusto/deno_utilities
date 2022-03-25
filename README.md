@@ -6,7 +6,7 @@
 ## Using
 Just import the raw path in your local folder, Example: 
 <code>
-import { getPermissionOrExit } from "https://raw.githubusercontent.com/LuizzAugusto/deno_utilities/v1.3/mod.ts"
+import { getPermissionOrExit } from "https://raw.githubusercontent.com/LuizzAugusto/deno_utilities/v1.4/mod.ts"
 
 getPermissionOrExit({ name : "read", path : "./public" });
 </code>
